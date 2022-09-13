@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Obfuscating transformer for react-native",
   "main": "dist/index.js",
-  "repository": "https://github.com/ds300/react-native-obfuscating-transformer",
+  "repository": "https://github.com/dentacarts/react-native-obfuscating-transformer",
   "author": "David Sheldrick",
   "license": "MIT",
   "dependencies": {
@@ -67,5 +67,7 @@
       "js",
       "json"
     ]
+  },"publishConfig": {
+    "@dentacarts:registry": "https://npm.pkg.github.com"
   }
 }
